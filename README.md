@@ -1,64 +1,46 @@
-<h1 align="center">Hi, I'm l0ng3lk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=exec-once+%3D+start_control_engineering;loading+module%3A+medical_imaging;loading+module%3A+computer_vision;welcome+to+my+repo..." />
-</div>
 
-<br/>
+  <p>
+    <img src="https://img.shields.io/badge/ARCH-LINUX-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/WM-HYPRLAND-00a4a4?style=for-the-badge&logo=linux&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/ROLE-GRAD_STUDENT-fab387?style=for-the-badge&logo=academic-cap&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/FOCUS-CV_%26_MATH-a6e3a1?style=for-the-badge&logo=opencv&logoColor=white" height="25">
+  </p>
 
-<div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=l0ng3lk&show_icons=true&theme=tokyonight&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&hide_border=true&count_private=true" width="400" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0ng3lk&layout=compact&theme=tokyonight&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&hide_border=true" width="400" />
-</div>
+  <a href="https://github.com/l0ng3lk">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nerd+Font&size=22&pause=1000&color=A9B1D6&background=1a1b2600&center=true&vCenter=true&width=600&height=70&lines=%3E_User:+l0ng3lk@BUAA;%3E_Loading+Module:+Control_Engineering...;%3E_Target:+Medical+Imaging+%2B+Math" alt="Typing SVG" />
+  </a>
 
-<div align="left">
-    <h3>  Hyprland / Rice </h3>
-    <p>
-        <img src="https://img.shields.io/badge/Arch_Linux-1793d1?style=flat-square&logo=arch-linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hyprland-00a4a4?style=flat-square&logo=linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Shell-Zsh-89b4fa?style=flat-square&logo=zsh&logoColor=white" />
-        <img src="https://img.shields.io/badge/Editor-Neovim-57a143?style=flat-square&logo=neovim&logoColor=white" />
-    </p>
+  <br />
 
-    <h3>  Research & Dev </h3>
-    <p>
-        <img src="https://img.shields.io/badge/Lang-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Lang-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Lib-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Lib-OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tech-DICOM-blue?style=flat-square" />
-    </p>
-</div>
+  <table width="100%" style="border: none;">
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=l0ng3lk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" width="100%" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0ng3lk&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=6" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=l0ng3lk&theme=tokyonight&hide_border=true&background=1a1b26" width="100%" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,opencv,linux,git,bash,latex,neovim&theme=dark&perline=5" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<br clear="all"/>
+  <br />
 
-<hr/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/l0ng3lk/l0ng3lk/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/l0ng3lk/l0ng3lk/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=l0ng3lk&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=bb9af7&area=true&hide_border=true" width="100%" />
+  </picture>
 
-<div>
-<img align="right" width="200" src="https://media1.tenor.com/m/XgZ30_zB1iQAAAAC/coding-anime.gif" />
-
-<h3>  ~/.config/user_info.conf </h3>
-
-<pre>
-# User Configuration
-# ------------------
-
-user {
-    name = "l0ng3lk"
-    role = "Master's Student @ BUAA"
-    major = "Control Engineering"
-    focus = ["Medical Imaging", "Computer Vision", "Math"]
-}
-
-binds {
-    # Current Goals
-    bind = MAIN, Research, exec, "CT/MRI Analysis"
-    bind = MAIN, Coding, exec, "Algorithm Design"
-    bind = SHIFT, Fun, exec, "CTF & Linux Ricing"
-}
-
-# "I use Arch btw"
-env = WAYLAND_DISPLAY, hyprland
-</pre>
 </div>
